@@ -1,6 +1,5 @@
 #include<iostream>
 #include<cstring>
-#include<arpa/inet.h>
 #define MAX_NAME 25
 #define MAX_PASSWORD 18
 using namespace std;
